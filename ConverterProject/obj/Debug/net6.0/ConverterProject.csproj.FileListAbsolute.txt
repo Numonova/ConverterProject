@@ -1,0 +1,14 @@
+D:\Projects\ConverterProject\ConverterProject\bin\Debug\net6.0\ConverterProject.exe
+D:\Projects\ConverterProject\ConverterProject\bin\Debug\net6.0\ConverterProject.deps.json
+D:\Projects\ConverterProject\ConverterProject\bin\Debug\net6.0\ConverterProject.runtimeconfig.json
+D:\Projects\ConverterProject\ConverterProject\bin\Debug\net6.0\ConverterProject.dll
+D:\Projects\ConverterProject\ConverterProject\bin\Debug\net6.0\ConverterProject.pdb
+D:\Projects\ConverterProject\ConverterProject\obj\Debug\net6.0\ConverterProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ConverterProject\ConverterProject\obj\Debug\net6.0\ConverterProject.AssemblyInfoInputs.cache
+D:\Projects\ConverterProject\ConverterProject\obj\Debug\net6.0\ConverterProject.AssemblyInfo.cs
+D:\Projects\ConverterProject\ConverterProject\obj\Debug\net6.0\ConverterProject.csproj.CoreCompileInputs.cache
+D:\Projects\ConverterProject\ConverterProject\obj\Debug\net6.0\ConverterProject.dll
+D:\Projects\ConverterProject\ConverterProject\obj\Debug\net6.0\refint\ConverterProject.dll
+D:\Projects\ConverterProject\ConverterProject\obj\Debug\net6.0\ConverterProject.pdb
+D:\Projects\ConverterProject\ConverterProject\obj\Debug\net6.0\ConverterProject.genruntimeconfig.cache
+D:\Projects\ConverterProject\ConverterProject\obj\Debug\net6.0\ref\ConverterProject.dll
